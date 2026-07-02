@@ -2,7 +2,7 @@
 
 **Understand any CSV dataset in seconds.** Smart Profiler analyzes your data and returns statistics, data quality insights, and preprocessing recommendations — all from a single command.
 
-[![Tests](https://github.com/YOUR-USERNAME/smart-profiler/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR-USERNAME/smart-profiler/actions/workflows/tests.yml)
+[![Tests](https://github.com/Mariomsoliman/smart-profiler/actions/workflows/tests.yml/badge.svg)](https://github.com/Mariomsoliman/smart-profiler/actions/workflows/tests.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -19,7 +19,7 @@ Smart Profiler does it in one command and tells you exactly what to fix.
 ## Quick start
 
 ```bash
-pip install git+https://github.com/YOUR-USERNAME/smart-profiler.git
+pip install git+https://github.com/Mariomsoliman/smart-profiler.git
 smart-profiler --input your_data.csv
 ```
 
@@ -30,7 +30,7 @@ smart-profiler --input your_data.csv
 ### From source
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-profiler.git
+git clone https://github.com/Mariomsoliman/smart-profiler.git
 cd smart-profiler
 pip install .
 ```
@@ -38,7 +38,7 @@ pip install .
 ### For development
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-profiler.git
+git clone https://github.com/Mariomsoliman/smart-profiler.git
 cd smart-profiler
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
