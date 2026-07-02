@@ -1,0 +1,11 @@
+name,age,income,country,score
+Alice,29,54000,USA,8.2
+Bob,34,61000,UK,7.5
+Carol,29,54000,USA,8.2
+Dave,,75000,Canada,9.1
+Eve,41,,Germany,6.8
+Frank,38,92000,USA,
+Grace,55,110000,,8.9
+Hank,62,110000,UK,7.2
+Ivan,29,54000,USA,8.2
+,29,54000,USA,7.7
